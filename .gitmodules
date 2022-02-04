@@ -1,0 +1,3 @@
+[submodule "invitacion-de-boda"]
+	path = invitacion-de-boda
+	url = git@github.com:sociedad-digital/invitacion-de-boda.git
